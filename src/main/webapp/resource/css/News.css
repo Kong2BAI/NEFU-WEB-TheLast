@@ -1,0 +1,20 @@
+.more {
+    color: lightgreen;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    text-decoration: none; /* 去掉下划线 */
+}
+.submit{
+    font-size: 20px; /* 调整字体大小 */
+    padding: 10px 20px; /* 调整内边距 */
+    border-radius: 15px; /* 设置圆角半径 */
+    border: 2px solid #000; /* 可选：添加边框颜色和宽度 */
+    background-color: #f0f0f0; /* 可选：设置背景颜色 */
+    box-sizing: border-box;
+    margin: 20px;
+
+
+}
